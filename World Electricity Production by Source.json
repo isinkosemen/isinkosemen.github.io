@@ -1,0 +1,596 @@
+[
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2010",
+        "Value": "8363.98"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2011",
+        "Value": "8819.66"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2012",
+        "Value": "8860.76"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2013",
+        "Value": "9312.45"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2014",
+        "Value": "9500.71"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2015",
+        "Value": "9166.88"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2016",
+        "Value": "9228.78"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2017",
+        "Value": "9521.49"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2018",
+        "Value": "9903.24"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2019",
+        "Value": "9684.76"
+    },
+    {
+        "MainCategory": "Coal",
+        "Category": "Coal",
+        "Year": "2020",
+        "Value": "9294.85"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2010",
+        "Value": "4741.59"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2011",
+        "Value": "4808.84"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2012",
+        "Value": "5085.74"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2013",
+        "Value": "4988.03"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2014",
+        "Value": "5136.3"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2015",
+        "Value": "5463.9"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2016",
+        "Value": "5708.86"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2017",
+        "Value": "5832.14"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2018",
+        "Value": "6046.61"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2019",
+        "Value": "6230.48"
+    },
+    {
+        "MainCategory": "Gas",
+        "Category": "Gas",
+        "Year": "2020",
+        "Value": "6151.05"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2010",
+        "Value": "2686.44"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2011",
+        "Value": "2575.34"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2012",
+        "Value": "2403.09"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2013",
+        "Value": "2418.07"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2014",
+        "Value": "2472.35"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2015",
+        "Value": "2502.15"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2016",
+        "Value": "2539.93"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2017",
+        "Value": "2565.63"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2018",
+        "Value": "2618.98"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2019",
+        "Value": "2723.54"
+    },
+    {
+        "MainCategory": "Nuclear",
+        "Category": "Nuclear",
+        "Year": "2020",
+        "Value": "2634.15"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2010",
+        "Value": "949.14"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2011",
+        "Value": "1043.34"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2012",
+        "Value": "1097.3"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2013",
+        "Value": "1063.45"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2014",
+        "Value": "1008.65"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2015",
+        "Value": "1012.68"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2016",
+        "Value": "959.67"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2017",
+        "Value": "872.56"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2018",
+        "Value": "798.23"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2019",
+        "Value": "740.93"
+    },
+    {
+        "MainCategory": "Oil",
+        "Category": "Oil",
+        "Year": "2020",
+        "Value": "710.63"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2010",
+        "Value": "324.25"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2010",
+        "Value": "3411.93"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2010",
+        "Value": "66.01"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2010",
+        "Value": "31.05"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2010",
+        "Value": "345.99"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2011",
+        "Value": "344.31"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2011",
+        "Value": "3480.11"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2011",
+        "Value": "67.08"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2011",
+        "Value": "61.85"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2011",
+        "Value": "440.45"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2012",
+        "Value": "372.96"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2012",
+        "Value": "3643.97"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2012",
+        "Value": "68.31"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2012",
+        "Value": "95.21"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2012",
+        "Value": "529.08"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2013",
+        "Value": "405.31"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2013",
+        "Value": "3770.5"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2013",
+        "Value": "69.6"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2013",
+        "Value": "131.39"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2013",
+        "Value": "641.35"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2014",
+        "Value": "442.4"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2014",
+        "Value": "3862.29"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2014",
+        "Value": "74.48"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2014",
+        "Value": "196.45"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2014",
+        "Value": "716.7"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2015",
+        "Value": "480.13"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2015",
+        "Value": "3870.46"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2015",
+        "Value": "78.37"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2015",
+        "Value": "254.87"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2015",
+        "Value": "828.39"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2016",
+        "Value": "488.04"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2016",
+        "Value": "3997.61"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2016",
+        "Value": "80.58"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2016",
+        "Value": "329.15"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2016",
+        "Value": "959.74"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2017",
+        "Value": "517.97"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2017",
+        "Value": "4050.18"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2017",
+        "Value": "83.51"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2017",
+        "Value": "444.54"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2017",
+        "Value": "1136.4"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2018",
+        "Value": "549.25"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2018",
+        "Value": "4179.2"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2018",
+        "Value": "87.08"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2018",
+        "Value": "570.66"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2018",
+        "Value": "1265.06"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2019",
+        "Value": "577.98"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2019",
+        "Value": "4202.08"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2019",
+        "Value": "88.99"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2019",
+        "Value": "700.72"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2019",
+        "Value": "1419.43"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Bioenergy",
+        "Year": "2020",
+        "Value": "605.13"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Hydro",
+        "Year": "2020",
+        "Value": "4331.88"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Other renewables excluding bioenergy",
+        "Year": "2020",
+        "Value": "92.08"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Solar",
+        "Year": "2020",
+        "Value": "849.67"
+    },
+    {
+        "MainCategory": "Renewables",
+        "Category": "Wind",
+        "Year": "2020",
+        "Value": "1586.2"
+    }
+]
