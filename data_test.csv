@@ -1,4 +1,4 @@
-﻿id,event-id,visible,timestamp,location-long,location-lat,tag-local-identifier,individual-local-identifier
+﻿id,event-id,visible,timestamp,longitude,latitude,tag-local-identifier,individual-local-identifier
 1,30046739254,TRUE,2010-02-21T09:48:00,164.246,-66.9,53348,53348
 2,30078742733,TRUE,2010-02-21T09:48:00,164.246,-66.9,53348,53348
 3,30046739235,TRUE,2010-02-21T09:54:00,164.224,-66.883,53348,53348
